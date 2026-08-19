@@ -1,0 +1,24 @@
+{
+  "name": "momo-pipeline",
+  "version": "0.3.0",
+  "builtAt": "2026-08-19T07:39:38Z",
+  "source": {
+    "activePluginVersion": "0.2.1+codex.20260724022000",
+    "sourceManifestSha256": "bd24f410690d71a07cd6e51c15015978d80b8005098a297452642f6729740306",
+    "sourceSkillSha256": "2e105274ca45e07bd68f586892465cde6f165dfe1f4685b3d118d42713dcc0ac"
+  },
+  "template": {
+    "name": "PPT模板.pptx",
+    "sha256": "275433f3d152a509e1f63a4c565cfb9977afde944c40fb2270a7b743705749e0",
+    "slides": 23,
+    "aspectRatio": "16:9",
+    "brandSystem": "Dingxin Digital Intelligence blue"
+  },
+  "runtimePins": {
+    "openSlideGitCommit": "2adbe12a8462796f5e3568185cb2cf8f231d605c",
+    "openSlideCli": "1.3.2",
+    "baoyuDesignGitCommit": "1a4b5c47581066b96b6c303b9203676d7926cbc4",
+    "esbuild": "0.28.2"
+  },
+  "hosts": ["Codex", "Claude Code"]
+}

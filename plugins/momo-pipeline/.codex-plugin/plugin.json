@@ -1,0 +1,50 @@
+{
+  "name": "momo-pipeline",
+  "version": "0.3.0",
+  "description": "A guided PPT production pipeline with exact-template priority, a packaged Dingxin template, browser preview, component comments, approval-gated export, and final QA.",
+  "author": {
+    "name": "momo-pipeline maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ppt",
+    "powerpoint",
+    "slides",
+    "presentation",
+    "open-slide",
+    "baoyu-design",
+    "ppt-design-studio",
+    "deck-pipeline",
+    "company-template",
+    "ui-ux-pro-max",
+    "taste-skill",
+    "design-intelligence"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Momo Pipeline",
+    "shortDescription": "Design, preview, export, and QA presentation decks.",
+    "longDescription": "A structured PPT production workflow: resolve the exact topic and template, confirm the Design Studio intake, build a browser preview for slide and component comments, apply comments on demand, then export and clean an editable PPTX after approval. Includes the current blue Dingxin Digital Intelligence template.",
+    "developerName": "momo-pipeline maintainers",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write",
+      "Local dependency bootstrap",
+      "Browser slide preview",
+      "Design intelligence lookup",
+      "PPTX export QA"
+    ],
+    "defaultPrompt": [
+      "Create a PPT with momo-pipeline; preview it and wait for approval before export.",
+      "Redesign this deck with momo-pipeline and show the browser preview first.",
+      "Use my company template in momo-pipeline and preserve its layout and styling.",
+      "Apply the pending open-slide component comments, rebuild the preview, and do not export yet."
+    ],
+    "brandColor": "#08AEEA",
+    "composerIcon": "./assets/composerIcon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="Momo Pipeline">
+  <rect width="240" height="80" rx="16" fill="#08145F"/>
+  <rect x="18" y="18" width="44" height="44" rx="10" fill="#08AEEA"/>
+  <path d="M29 30h16c6 0 10 4 10 10s-4 10-10 10H29V30z" fill="#fff"/>
+  <text x="78" y="38" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">momo</text>
+  <text x="78" y="60" fill="#08AEEA" font-family="Arial, sans-serif" font-size="18" font-weight="700">pipeline</text>
+</svg>

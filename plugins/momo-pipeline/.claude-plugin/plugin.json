@@ -1,0 +1,18 @@
+{
+  "name": "momo-pipeline",
+  "version": "0.3.0",
+  "description": "A guided PPT production pipeline with Dingxin template support, intake confirmation, browser preview, component comments, approval-gated export, and QA.",
+  "author": {
+    "name": "momo-pipeline maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ppt",
+    "powerpoint",
+    "slides",
+    "presentation",
+    "open-slide",
+    "dingxin",
+    "browser-preview"
+  ]
+}

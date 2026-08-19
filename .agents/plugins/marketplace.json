@@ -1,0 +1,20 @@
+{
+  "name": "momo-pipeline-local",
+  "interface": {
+    "displayName": "Momo Pipeline Local"
+  },
+  "plugins": [
+    {
+      "name": "momo-pipeline",
+      "source": {
+        "source": "local",
+        "path": "./plugins/momo-pipeline"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

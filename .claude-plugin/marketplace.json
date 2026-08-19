@@ -1,0 +1,16 @@
+{
+  "name": "momo-pipeline-local",
+  "owner": {
+    "name": "momo-pipeline maintainers"
+  },
+  "plugins": [
+    {
+      "name": "momo-pipeline",
+      "source": "./plugins/momo-pipeline",
+      "description": "Guided PPT design, preview, component-comment, export, and QA workflow.",
+      "version": "0.3.0",
+      "category": "Productivity",
+      "tags": ["ppt", "presentation", "open-slide", "dingxin"]
+    }
+  ]
+}
